@@ -8,7 +8,7 @@ In this project we use a UR10 via ethernet and a Robotiq gripper via modbus RTU.
 We used move-it as the path planner for the arm and the 2 finger RTU node of the Robotiq gripper to open and close it<br />
 This package contains the ur_modern_driver with the hardware_interface ABI changes in kinetic (https://github.com/iron-ox/ur_modern_driver/commit/883070d0b6c0c32b78bb1ca7155b8f3a1ead416c) fixed to make it work with kinetic<br />
 <br />
-For reasons unknows the Robotiq package doesn't push, below you can find how we constructed it.<br />
+For reasons unknown the Robotiq package doesn't push, below you can find how we constructed it.<br />
 Robotiq<br />
 <br />
 Go back to root<br />
